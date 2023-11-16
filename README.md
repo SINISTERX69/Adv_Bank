@@ -1,6 +1,6 @@
-#Run Login.py to launch the application
+#**Run Login.py to launch the application**
 
-#Features-
+#**Features-**
 
 Full GUI support
 SQL connectivity
@@ -8,7 +8,7 @@ Data Manipulation
 Data Retrival
 Basic K-Means Clustering for predicting advice
 
-#Quick Walkthrough (No pictures)-
+#**Quick Walkthrough (No pictures)-**
 
 >The Login page accepts Employee ID and Password and grants access to the software. The employee id should already be registered and saved on our database then only you will get to access to use our application.
 
